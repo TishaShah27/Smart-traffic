@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 1,
+        "intersection_id": 1,
+        "state": "Green",
+        "timing": 60
+    },
+    {
+        "_id": 2,
+        "intersection_id": 1,
+        "state": "Red",
+        "timing": 30
+    },
+    {
+        "_id": 3,
+        "intersection_id": 2,
+        "state": "Yellow",
+        "timing": 5
+    },
+    {
+        "_id": 4,
+        "intersection_id": 3,
+        "state": "Green",
+        "timing": 45
+    }
+]

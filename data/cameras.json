@@ -1,0 +1,32 @@
+[
+    {
+        "_id": 1,
+        "intersection_id": 1,
+        "model": "CamX100",
+        "status": "Active"
+    },
+    {
+        "_id": 2,
+        "intersection_id": 2,
+        "model": "CamY200",
+        "status": "Inactive"
+    },
+    {
+        "_id": 3,
+        "intersection_id": 3,
+        "model": "CamZ300",
+        "status": "Active"
+    },
+    {
+        "_id": 4,
+        "intersection_id": 4,
+        "model": "CamA500",
+        "status": "Active"
+    },
+    {
+        "_id": 5,
+        "intersection_id": 5,
+        "model": "CamB500",
+        "status": "Inactive"
+    }
+]

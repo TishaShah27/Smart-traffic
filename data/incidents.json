@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 1,
+        "intersection_id": 1,
+        "description": "Minor accident",
+        "resolved": false
+    },
+    {
+        "_id": 2,
+        "intersection_id": 2,
+        "description": "Traffic jam",
+        "resolved": true
+    },
+    {
+        "_id": 3,
+        "intersection_id": 3,
+        "description": "Road construction",
+        "resolved": false
+    },
+    {
+        "_id": 4,
+        "intersection_id": 4,
+        "description": "Jaimin Birthday",
+        "resolved": true
+    }
+]
